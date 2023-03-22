@@ -3,3 +3,6 @@ Blue
 Scount
 Rocket
 Chickens
+Monty
+Mocha
+Charko
